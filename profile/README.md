@@ -7,5 +7,5 @@
 ### 連絡先
 
 - [Discordサーバー](https://discord.gg/Q4tkxFVzUX )
-- [メール](mailto:attenteam@proton.me ) (編集が遅れる場合があります)
+- [メール](mailto:attenteam@proton.me ) (返信が遅れる場合があります)
 - [@AttenTeam](https://atten.win/users/attenteam ) のDM
